@@ -6,5 +6,3 @@ return i;
 }
 return -1;
 }
-
-// ritesh

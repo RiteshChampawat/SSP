@@ -17,5 +17,3 @@ let searchWord = "a";
 let occurrences = findAllOccurrences(sentence, searchWord);
 console.log("Index positions of '" + searchWord + "' in the sentence:");
 console.log(occurrences);
-
-// ritesh

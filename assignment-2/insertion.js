@@ -15,5 +15,3 @@ return arr;
 const originalArr = [5, 3, 7, 2, 8, 4, 1];
 const sortedArr = insertionSort(originalArr);
 console.log("Sorted array:", sortedArr);
-
-// ritesh

@@ -16,5 +16,3 @@ var area = rectangle.calculateArea();
 var perimeter = rectangle.calculatePerimeter();
 console.log("Area:", area); //50
 console.log("Perimeter:", perimeter); //30
-
-// ritesh
