@@ -19,3 +19,5 @@ return merge_Arrays(merge_sort(left_sub_array),merge_sort(unsorted_Array))
 }
 unsorted_Array = [39, 28, 44, 4, 10, 83, 11];
 console.log("The sorted array will be: ",merge_sort(unsorted_Array));
+
+// ritesh

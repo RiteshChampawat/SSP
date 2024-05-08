@@ -11,3 +11,5 @@ const sortedArray = [1, 2, 3, 4, 5];
 const unsortedArray = [5, 3, 7, 2, 8];
 console.log("Is sortedArray sorted?", isArraySorted(sortedArray));
 console.log("Is unsortedArray sorted?", isArraySorted(unsortedArray));
+
+// ritesh

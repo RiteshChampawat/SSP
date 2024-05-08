@@ -6,3 +6,5 @@ return str.split(/\s+/);
 var sentence = "This is a sample sentence.";
 var wordsArray = splitStringIntoWords(sentence);
 console.log(wordsArray);
+
+// ritesh
